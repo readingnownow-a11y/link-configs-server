@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:03:05.598Z",
+  "generatedAt": "2026-08-15T23:05:44.133Z",
   "locations": [
     {
       "id": "united-states",
@@ -13,6 +13,22 @@
           "fileName": "usa e.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/usa%20e.hc",
           "sizeBytes": 9588,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "code": "DE",
+      "name": "Germany",
+      "city": "Frankfurt",
+      "files": [
+        {
+          "id": "germany-http-Germ.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Germ.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germ.hc",
+          "sizeBytes": 112856,
           "version": 1
         }
       ]
