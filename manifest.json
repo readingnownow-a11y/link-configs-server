@@ -1,4 +1,21 @@
 {
-  "generatedAt": "2026-08-15T22:53:00.094Z",
-  "locations": []
+  "generatedAt": "2026-08-15T23:03:05.598Z",
+  "locations": [
+    {
+      "id": "united-states",
+      "code": "USA",
+      "name": "United states",
+      "city": "Miami",
+      "files": [
+        {
+          "id": "united-states-http-usa e.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "usa e.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/usa%20e.hc",
+          "sizeBytes": 9588,
+          "version": 1
+        }
+      ]
+    }
+  ]
 }
