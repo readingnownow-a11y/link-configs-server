@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:53:23.044Z",
+  "generatedAt": "2026-08-16T22:54:57.163Z",
   "locations": [
     {
       "id": "united-states",
@@ -13,6 +13,14 @@
           "fileName": "usa e.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/usa%20e.hc",
           "sizeBytes": 9588,
+          "version": 1
+        },
+        {
+          "id": "united-states-http-USA 3.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "USA 3.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/USA%203.hc",
+          "sizeBytes": 105672,
           "version": 1
         }
       ]
