@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:52:35.254Z",
+  "generatedAt": "2026-08-16T09:53:23.044Z",
   "locations": [
     {
       "id": "united-states",
@@ -72,13 +72,6 @@
           "version": 1
         }
       ]
-    },
-    {
-      "id": "china",
-      "code": "CN",
-      "name": "China",
-      "city": "",
-      "files": []
     },
     {
       "id": "netherlands",
