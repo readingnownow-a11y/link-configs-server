@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:05:44.133Z",
+  "generatedAt": "2026-08-16T01:27:13.679Z",
   "locations": [
     {
       "id": "united-states",
@@ -29,6 +29,38 @@
           "fileName": "Germ.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germ.hc",
           "sizeBytes": 112856,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "south-africa",
+      "code": "SA",
+      "name": "South Africa",
+      "city": "Natal",
+      "files": [
+        {
+          "id": "south-africa-http-SOUTH AFRICA.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "SOUTH AFRICA.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/south-africa/http/SOUTH%20AFRICA.hc",
+          "sizeBytes": 118472,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "code": "FR",
+      "name": "France",
+      "city": "France",
+      "files": [
+        {
+          "id": "france-http-FRANCE.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "FRANCE.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/FRANCE.hc",
+          "sizeBytes": 105160,
           "version": 1
         }
       ]
