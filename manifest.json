@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T01:27:13.679Z",
+  "generatedAt": "2026-08-16T09:35:21.985Z",
   "locations": [
     {
       "id": "united-states",
@@ -30,6 +30,14 @@
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germ.hc",
           "sizeBytes": 112856,
           "version": 1
+        },
+        {
+          "id": "germany-http-German.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "German.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/German.hc",
+          "sizeBytes": 110424,
+          "version": 3
         }
       ]
     },
