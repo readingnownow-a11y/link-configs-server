@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:42:36.322Z",
+  "generatedAt": "2026-08-16T09:52:35.254Z",
   "locations": [
     {
       "id": "united-states",
@@ -79,6 +79,22 @@
       "name": "China",
       "city": "",
       "files": []
+    },
+    {
+      "id": "netherlands",
+      "code": "NL",
+      "name": "Netherlands",
+      "city": "Neth",
+      "files": [
+        {
+          "id": "netherlands-http-Netherlands.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Netherlands.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/netherlands/http/Netherlands.hc",
+          "sizeBytes": 105816,
+          "version": 1
+        }
+      ]
     }
   ]
 }
