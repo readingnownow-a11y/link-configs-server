@@ -1,26 +1,18 @@
 {
-  "generatedAt": "2026-08-16T22:54:57.163Z",
+  "generatedAt": "2026-08-18T00:07:05.043Z",
   "locations": [
     {
-      "id": "united-states",
-      "code": "USA",
-      "name": "United states",
-      "city": "Miami",
+      "id": "united-states-of-america",
+      "code": "US",
+      "name": "UNITED STATES OF AMERICA",
+      "city": "",
       "files": [
         {
-          "id": "united-states-http-usa e.hc",
+          "id": "united-states-of-america-http-Server 1.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "usa e.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/usa%20e.hc",
-          "sizeBytes": 9588,
-          "version": 1
-        },
-        {
-          "id": "united-states-http-USA 3.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "USA 3.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/USA%203.hc",
-          "sizeBytes": 105672,
+          "fileName": "Server 1.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states-of-america/http/Server%201.hc",
+          "sizeBytes": 95560,
           "version": 1
         }
       ]
@@ -28,55 +20,15 @@
     {
       "id": "germany",
       "code": "DE",
-      "name": "Germany",
-      "city": "Frankfurt",
+      "name": "GERMANY",
+      "city": "",
       "files": [
         {
-          "id": "germany-http-Germ.hc",
+          "id": "germany-http-Germany.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "Germ.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germ.hc",
-          "sizeBytes": 112856,
-          "version": 1
-        },
-        {
-          "id": "germany-http-German.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "German.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/German.hc",
-          "sizeBytes": 110424,
-          "version": 3
-        }
-      ]
-    },
-    {
-      "id": "south-africa",
-      "code": "SA",
-      "name": "South Africa",
-      "city": "Natal",
-      "files": [
-        {
-          "id": "south-africa-http-SOUTH AFRICA.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "SOUTH AFRICA.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/south-africa/http/SOUTH%20AFRICA.hc",
-          "sizeBytes": 118472,
-          "version": 1
-        }
-      ]
-    },
-    {
-      "id": "france",
-      "code": "FR",
-      "name": "France",
-      "city": "France",
-      "files": [
-        {
-          "id": "france-http-FRANCE.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "FRANCE.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/FRANCE.hc",
-          "sizeBytes": 105160,
+          "fileName": "Germany.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germany.hc",
+          "sizeBytes": 109704,
           "version": 1
         }
       ]
@@ -84,15 +36,15 @@
     {
       "id": "netherlands",
       "code": "NL",
-      "name": "Netherlands",
-      "city": "Neth",
+      "name": "NETHERLANDS",
+      "city": "",
       "files": [
         {
           "id": "netherlands-http-Netherlands.hc",
           "vpnType": "HTTP_CUSTOM",
           "fileName": "Netherlands.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/netherlands/http/Netherlands.hc",
-          "sizeBytes": 105816,
+          "sizeBytes": 102024,
           "version": 1
         }
       ]
