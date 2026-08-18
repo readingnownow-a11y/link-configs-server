@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T00:07:05.043Z",
+  "generatedAt": "2026-08-18T10:35:25.850Z",
   "locations": [
     {
       "id": "united-states-of-america",
@@ -13,7 +13,10 @@
           "fileName": "Server 1.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states-of-america/http/Server%201.hc",
           "sizeBytes": 95560,
-          "version": 1
+          "version": 1,
+          "validDays": 6,
+          "uploadedAt": "2026-08-18T10:34:10.755Z",
+          "expiresAt": "2026-08-24T10:34:10.755Z"
         }
       ]
     },
@@ -29,7 +32,10 @@
           "fileName": "Germany.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germany.hc",
           "sizeBytes": 109704,
-          "version": 1
+          "version": 1,
+          "validDays": 6,
+          "uploadedAt": "2026-08-18T10:34:52.927Z",
+          "expiresAt": "2026-08-24T10:34:52.927Z"
         }
       ]
     },
@@ -45,7 +51,10 @@
           "fileName": "Netherlands.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/netherlands/http/Netherlands.hc",
           "sizeBytes": 102024,
-          "version": 1
+          "version": 1,
+          "validDays": 6,
+          "uploadedAt": "2026-08-18T10:35:25.850Z",
+          "expiresAt": "2026-08-24T10:35:25.850Z"
         }
       ]
     }
