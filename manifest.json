@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:58:31.188Z",
+  "generatedAt": "2026-08-18T15:06:23.187Z",
   "locations": [
     {
       "id": "united-states-of-america",
@@ -17,17 +17,6 @@
           "validDays": 6,
           "uploadedAt": "2026-08-18T10:34:10.755Z",
           "expiresAt": "2026-08-24T10:34:10.755Z"
-        },
-        {
-          "id": "united-states-of-america-http-All Countries Free UDP.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "All Countries Free UDP.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states-of-america/http/All%20Countries%20Free%20UDP.hc",
-          "sizeBytes": 100872,
-          "version": 1,
-          "validDays": 7,
-          "uploadedAt": "2026-08-18T14:58:31.182Z",
-          "expiresAt": "2026-08-25T14:58:31.182Z"
         }
       ]
     },
