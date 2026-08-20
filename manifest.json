@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:12:50.995Z",
+  "generatedAt": "2026-08-19T23:59:53.232Z",
   "locations": [
     {
       "id": "united-states-of-america",
@@ -66,6 +66,25 @@
           "validDays": 6,
           "uploadedAt": "2026-08-18T10:35:25.850Z",
           "expiresAt": "2026-08-24T10:35:25.850Z"
+        }
+      ]
+    },
+    {
+      "id": "south-africa",
+      "code": "ZA",
+      "name": "SOUTH AFRICA",
+      "city": "",
+      "files": [
+        {
+          "id": "south-africa-http-Airtel UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Airtel UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/south-africa/http/Airtel%20UDP%20FR.hc",
+          "sizeBytes": 111752,
+          "version": 1,
+          "validDays": 4,
+          "uploadedAt": "2026-08-19T23:59:53.232Z",
+          "expiresAt": "2026-08-23T23:59:53.232Z"
         }
       ]
     }
