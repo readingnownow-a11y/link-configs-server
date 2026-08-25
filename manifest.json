@@ -1,12 +1,62 @@
 {
-  "generatedAt": "2026-08-25T01:45:51.306Z",
+  "generatedAt": "2026-08-25T22:41:47.844Z",
   "locations": [
     {
-      "id": "please-update-the-app-to-get-the-latest-files",
-      "code": "UPD",
-      "name": "PLEASE UPDATE THE APP TO GET THE LATEST FILES",
+      "id": "united-states",
+      "code": "US",
+      "name": "United States",
       "city": "",
-      "files": []
+      "files": [
+        {
+          "id": "united-states-http-USA UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "USA UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/USA%20UDP%20FR.hc",
+          "sizeBytes": 106632,
+          "version": 1,
+          "validDays": 3,
+          "uploadedAt": "2026-08-25T22:41:07.216Z",
+          "expiresAt": "2026-08-28T22:41:07.216Z"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "code": "DE",
+      "name": "Germany",
+      "city": "",
+      "files": [
+        {
+          "id": "germany-http-Germany UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Germany UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germany%20UDP%20FR.hc",
+          "sizeBytes": 115848,
+          "version": 1,
+          "validDays": 3,
+          "uploadedAt": "2026-08-25T22:41:28.679Z",
+          "expiresAt": "2026-08-28T22:41:28.679Z"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "code": "FR",
+      "name": "France",
+      "city": "",
+      "files": [
+        {
+          "id": "france-http-France UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "France UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/France%20UDP%20FR.hc",
+          "sizeBytes": 108872,
+          "version": 1,
+          "validDays": 3,
+          "uploadedAt": "2026-08-25T22:41:47.844Z",
+          "expiresAt": "2026-08-28T22:41:47.844Z"
+        }
+      ]
     }
   ]
 }
