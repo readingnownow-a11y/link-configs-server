@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:41:47.844Z",
+  "generatedAt": "2026-08-27T02:50:35.845Z",
   "locations": [
     {
       "id": "united-states",
@@ -12,11 +12,11 @@
           "vpnType": "HTTP_CUSTOM",
           "fileName": "USA UDP FR.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-states/http/USA%20UDP%20FR.hc",
-          "sizeBytes": 106632,
+          "sizeBytes": 110728,
           "version": 1,
-          "validDays": 3,
-          "uploadedAt": "2026-08-25T22:41:07.216Z",
-          "expiresAt": "2026-08-28T22:41:07.216Z"
+          "validDays": 8,
+          "uploadedAt": "2026-08-27T02:48:41.904Z",
+          "expiresAt": "2026-09-04T02:48:41.904Z"
         }
       ]
     },
@@ -25,19 +25,7 @@
       "code": "DE",
       "name": "Germany",
       "city": "",
-      "files": [
-        {
-          "id": "germany-http-Germany UDP FR.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "Germany UDP FR.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germany%20UDP%20FR.hc",
-          "sizeBytes": 115848,
-          "version": 1,
-          "validDays": 3,
-          "uploadedAt": "2026-08-25T22:41:28.679Z",
-          "expiresAt": "2026-08-28T22:41:28.679Z"
-        }
-      ]
+      "files": []
     },
     {
       "id": "france",
@@ -46,15 +34,34 @@
       "city": "",
       "files": [
         {
-          "id": "france-http-France UDP FR.hc",
+          "id": "france-http-FRANCE UDP FR.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "France UDP FR.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/France%20UDP%20FR.hc",
-          "sizeBytes": 108872,
+          "fileName": "FRANCE UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/FRANCE%20UDP%20FR.hc",
+          "sizeBytes": 106312,
           "version": 1,
-          "validDays": 3,
-          "uploadedAt": "2026-08-25T22:41:47.844Z",
-          "expiresAt": "2026-08-28T22:41:47.844Z"
+          "validDays": 8,
+          "uploadedAt": "2026-08-27T02:50:08.067Z",
+          "expiresAt": "2026-09-04T02:50:08.067Z"
+        }
+      ]
+    },
+    {
+      "id": "netherlands",
+      "code": "NL",
+      "name": "Netherlands",
+      "city": "",
+      "files": [
+        {
+          "id": "netherlands-http-NETHERLANDS UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "NETHERLANDS UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/netherlands/http/NETHERLANDS%20UDP%20FR.hc",
+          "sizeBytes": 108552,
+          "version": 1,
+          "validDays": 8,
+          "uploadedAt": "2026-08-27T02:50:35.843Z",
+          "expiresAt": "2026-09-04T02:50:35.843Z"
         }
       ]
     }
