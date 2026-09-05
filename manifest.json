@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T03:44:45.893Z",
+  "generatedAt": "2026-09-05T14:16:34.689Z",
   "locations": [
     {
       "id": "germany",
@@ -8,15 +8,53 @@
       "city": "",
       "files": [
         {
-          "id": "germany-http-Airtel UDP FR.hc",
+          "id": "germany-http-Airtel UDP FR DE.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "Airtel UDP FR.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Airtel%20UDP%20FR.hc",
-          "sizeBytes": 115048,
+          "fileName": "Airtel UDP FR DE.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Airtel%20UDP%20FR%20DE.hc",
+          "sizeBytes": 105832,
           "version": 1,
           "validDays": 7,
-          "uploadedAt": "2026-09-02T03:44:45.892Z",
-          "expiresAt": "2026-09-09T03:44:45.892Z"
+          "uploadedAt": "2026-09-05T14:15:48.006Z",
+          "expiresAt": "2026-09-12T14:15:48.006Z"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "code": "FR",
+      "name": "France",
+      "city": "",
+      "files": [
+        {
+          "id": "france-http-Airtel UDP FR FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Airtel UDP FR FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/Airtel%20UDP%20FR%20FR.hc",
+          "sizeBytes": 112808,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-09-05T14:16:11.528Z",
+          "expiresAt": "2026-09-12T14:16:11.528Z"
+        }
+      ]
+    },
+    {
+      "id": "south-africa",
+      "code": "SA",
+      "name": "South Africa",
+      "city": "",
+      "files": [
+        {
+          "id": "south-africa-http-Airtel UDP FR SA.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Airtel UDP FR SA.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/south-africa/http/Airtel%20UDP%20FR%20SA.hc",
+          "sizeBytes": 111656,
+          "version": 1,
+          "validDays": 6,
+          "uploadedAt": "2026-09-05T14:16:34.689Z",
+          "expiresAt": "2026-09-11T14:16:34.689Z"
         }
       ]
     }
