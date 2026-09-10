@@ -1,60 +1,41 @@
 {
-  "generatedAt": "2026-09-05T14:16:34.689Z",
+  "generatedAt": "2026-09-10T22:52:26.539Z",
   "locations": [
     {
-      "id": "germany",
-      "code": "DE",
-      "name": "Germany",
+      "id": "saude-arabia",
+      "code": "SAU",
+      "name": "Saude Arabia",
       "city": "",
       "files": [
         {
-          "id": "germany-http-Airtel UDP FR DE.hc",
+          "id": "saude-arabia-http-Airtel UDP FR SAU.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "Airtel UDP FR DE.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Airtel%20UDP%20FR%20DE.hc",
-          "sizeBytes": 105832,
+          "fileName": "Airtel UDP FR SAU.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/saude-arabia/http/Airtel%20UDP%20FR%20SAU.hc",
+          "sizeBytes": 121704,
           "version": 1,
-          "validDays": 7,
-          "uploadedAt": "2026-09-05T14:15:48.006Z",
-          "expiresAt": "2026-09-12T14:15:48.006Z"
+          "validDays": 2,
+          "uploadedAt": "2026-09-10T22:51:53.970Z",
+          "expiresAt": "2026-09-12T22:51:53.970Z"
         }
       ]
     },
     {
-      "id": "france",
-      "code": "FR",
-      "name": "France",
+      "id": "united-arab-emirates",
+      "code": "UAE",
+      "name": "United Arab Emirates",
       "city": "",
       "files": [
         {
-          "id": "france-http-Airtel UDP FR FR.hc",
+          "id": "united-arab-emirates-http-Airtel UDP FR UAE.hc",
           "vpnType": "HTTP_CUSTOM",
-          "fileName": "Airtel UDP FR FR.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/Airtel%20UDP%20FR%20FR.hc",
-          "sizeBytes": 112808,
+          "fileName": "Airtel UDP FR UAE.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/united-arab-emirates/http/Airtel%20UDP%20FR%20UAE.hc",
+          "sizeBytes": 102440,
           "version": 1,
-          "validDays": 7,
-          "uploadedAt": "2026-09-05T14:16:11.528Z",
-          "expiresAt": "2026-09-12T14:16:11.528Z"
-        }
-      ]
-    },
-    {
-      "id": "south-africa",
-      "code": "SA",
-      "name": "South Africa",
-      "city": "",
-      "files": [
-        {
-          "id": "south-africa-http-Airtel UDP FR SA.hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "Airtel UDP FR SA.hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/south-africa/http/Airtel%20UDP%20FR%20SA.hc",
-          "sizeBytes": 111656,
-          "version": 1,
-          "validDays": 6,
-          "uploadedAt": "2026-09-05T14:16:34.689Z",
-          "expiresAt": "2026-09-11T14:16:34.689Z"
+          "validDays": 4,
+          "uploadedAt": "2026-09-10T22:52:26.538Z",
+          "expiresAt": "2026-09-14T22:52:26.538Z"
         }
       ]
     }
