@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T22:52:26.539Z",
+  "generatedAt": "2026-09-12T05:22:07.023Z",
   "locations": [
     {
       "id": "saude-arabia",
@@ -36,6 +36,25 @@
           "validDays": 4,
           "uploadedAt": "2026-09-10T22:52:26.538Z",
           "expiresAt": "2026-09-14T22:52:26.538Z"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "code": "DE",
+      "name": "Germany",
+      "city": "",
+      "files": [
+        {
+          "id": "germany-http-Airtel UDP FR DE.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Airtel UDP FR DE.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Airtel%20UDP%20FR%20DE.hc",
+          "sizeBytes": 111328,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-09-12T05:22:07.023Z",
+          "expiresAt": "2026-09-19T05:22:07.023Z"
         }
       ]
     }
