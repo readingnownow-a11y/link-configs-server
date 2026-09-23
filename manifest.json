@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:47:10.619Z",
+  "generatedAt": "2026-09-23T00:29:08.850Z",
   "locations": [
     {
       "id": "germany",
@@ -55,6 +55,17 @@
           "validDays": 7,
           "uploadedAt": "2026-09-18T11:47:10.619Z",
           "expiresAt": "2026-09-25T11:47:10.619Z"
+        },
+        {
+          "id": "france-http-Server 2.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Server 2.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/Server%202.hc",
+          "sizeBytes": 93336,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-09-23T00:29:08.843Z",
+          "expiresAt": "2026-09-30T00:29:08.843Z"
         }
       ]
     }
