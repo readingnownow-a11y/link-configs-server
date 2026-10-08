@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:10:43.513Z",
+  "generatedAt": "2026-10-08T02:00:17.907Z",
   "locations": [
     {
       "id": "germany",
@@ -8,45 +8,15 @@
       "city": "",
       "files": [
         {
-          "id": "germany-http-DE Airtel UDP FR..hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "DE Airtel UDP FR..hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/DE%20Airtel%20UDP%20FR..hc",
-          "sizeBytes": 114200,
-          "version": 1,
-          "validDays": 5,
-          "uploadedAt": "2026-09-28T00:31:45.461Z",
-          "expiresAt": "2026-10-03T00:31:45.461Z"
-        },
-        {
           "id": "germany-http-Germany UDP FR.hc",
           "vpnType": "HTTP_CUSTOM",
           "fileName": "Germany UDP FR.hc",
           "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/germany/http/Germany%20UDP%20FR.hc",
-          "sizeBytes": 109592,
+          "sizeBytes": 112664,
           "version": 1,
-          "validDays": 5,
-          "uploadedAt": "2026-10-02T02:10:43.512Z",
-          "expiresAt": "2026-10-07T02:10:43.512Z"
-        }
-      ]
-    },
-    {
-      "id": "france",
-      "code": "FR",
-      "name": "France",
-      "city": "",
-      "files": [
-        {
-          "id": "france-http-FR AIRTEL UDP ..hc",
-          "vpnType": "HTTP_CUSTOM",
-          "fileName": "FR AIRTEL UDP ..hc",
-          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/FR%20AIRTEL%20UDP%20..hc",
-          "sizeBytes": 98968,
-          "version": 1,
-          "validDays": 7,
-          "uploadedAt": "2026-09-28T00:31:45.484Z",
-          "expiresAt": "2026-10-05T00:31:45.484Z"
+          "validDays": 6,
+          "uploadedAt": "2026-10-08T02:00:17.907Z",
+          "expiresAt": "2026-10-14T02:00:17.907Z"
         }
       ]
     }
