@@ -6,21 +6,57 @@
       "code": "FR",
       "name": "France",
       "city": "",
-      "files": []
+      "files": [
+        {
+          "id": "france-http-France UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "France UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/france/http/France%20UDP%20FR.hc",
+          "sizeBytes": 96088,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-10-16T14:00:41.016Z",
+          "expiresAt": "2026-10-23T14:00:41.016Z"
+        }
+      ]
     },
     {
       "id": "finland",
       "code": "FN",
       "name": "Finland",
       "city": "",
-      "files": []
+      "files": [
+        {
+          "id": "finland-http-Finland UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Finland UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/finland/http/Finland%20UDP%20FR.hc",
+          "sizeBytes": 97944,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-10-16T14:01:02.206Z",
+          "expiresAt": "2026-10-23T14:01:02.206Z"
+        }
+      ]
     },
     {
       "id": "netherlands",
       "code": "NL",
       "name": "Netherlands",
       "city": "",
-      "files": []
+      "files": [
+        {
+          "id": "netherlands-http-Netherlands UDP FR.hc",
+          "vpnType": "HTTP_CUSTOM",
+          "fileName": "Netherlands UDP FR.hc",
+          "url": "https://readingnownow-a11y.github.io/link-configs-server/configs/netherlands/http/Netherlands%20UDP%20FR.hc",
+          "sizeBytes": 96600,
+          "version": 1,
+          "validDays": 7,
+          "uploadedAt": "2026-10-16T14:01:32.697Z",
+          "expiresAt": "2026-10-23T14:01:32.697Z"
+        }
+      ]
     }
   ]
 }
